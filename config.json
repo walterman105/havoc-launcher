@@ -1,0 +1,11 @@
+{
+  "credentials": {
+    "username": "Player",
+    "password": "havoc",
+    "random_pass": false
+  },
+  "options": {
+    "console": false,
+    "memory_fix": false
+  }
+}
